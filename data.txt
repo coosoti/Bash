@@ -1,0 +1,4 @@
+ID|Name|Email
+1|John|john@example.com
+2|Alice|alice@example.com
+3|Bob|bob@example.com

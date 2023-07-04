@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+text="Hello, World!"
+cut_text=$(echo "$text" | cut -d',' -f2)
+echo "$cut_text"

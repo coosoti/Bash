@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+read -p "Enter your name: " name
+
+if [ -z "$name" ]; then
+  echo "You did not enter a name"
+else
+  echo "Hello, $name!"
+fi
+

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+var=$(ls -la | wc -l)
+echo "There are $var entries in the directory /etc"

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+
+first=hello
+second=world
+echo "first = $first and second = $second"
+
+export first
+
+./export
